@@ -17,6 +17,7 @@ Development passionated, I am currently learning several programming languages. 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30px" style="padding-right:10px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30px" style="padding-right:10px;" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBi" width="30px" style="padding-right:10px;" />
+   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="30px" style="padding-right:10px;" />
 </p>
 
    ---
